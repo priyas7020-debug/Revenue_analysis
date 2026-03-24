@@ -7,13 +7,13 @@ Dashboard- <img width="1167" height="656" alt="image" src="https://github.com/us
 
  <img width="1167" height="656" alt="image" src="https://github.com/user-attachments/assets/d8aecfd8-fc0f-434b-ba0b-d65efcb9687e" />
 
-**📌 Project Overview**
+**Project Overview **
 
 This project focuses on performing an end-to-end data analysis of a construction and interior services business. The main goal is to extract meaningful insights from raw sales data to understand revenue trends, client contribution, and business performance.
 
 The workflow integrates Python, SQL, and Power BI to transform raw data into actionable insights and interactive dashboards.
 
-**🎯 Objectives**
+** Objectives**
 
 Clean and preprocess raw sales data using Python
 Store and manage structured data using SQL
@@ -24,7 +24,7 @@ Revenue trends
 Top clients
 Regional performance
 
-**🗂️ Dataset Description**
+**Dataset Description**
 
 Data collected from multiple Excel sheets (state-wise division)
 Combined into a single dataset
@@ -34,7 +34,7 @@ Client information
 Project types
 State-wise data
 
-**🛠️ Tools & Technologies Used**
+**Tools & Technologies Used**
 
 Tool	Purpose
 Python (Pandas, NumPy)	Data cleaning & preprocessing
@@ -42,7 +42,7 @@ MySQL	Data storage & querying
 Power BI	Data visualization & dashboard
 Excel	Initial data source
 
-**⚙️ Methodology**
+**Methodology**
 
 Data Collection
 Imported multiple Excel sheets
@@ -58,20 +58,21 @@ Data Visualization (Power BI)
 Built interactive dashboard
 Created KPIs and charts
 
-**📈 Key Insights**
+**Key Insights**
 
 1.💰 Revenue Performance
 
 Total Revenue ≈ ₹42.23M
 Business is stable but depends on high-value projects
-🌍 State-wise Analysis
+
+State-wise Analysis
 Uttar Pradesh → Highest contributor
 Haryana → Second highest
 Other states → Low contribution
 
 👉 Insight: Business is geographically concentrated
 
-2.🏗️ Project Type Analysis
+2. Project Type Analysis
 
 High revenue from:
 Partition
@@ -80,13 +81,13 @@ Electrical
 
 👉 Insight: Few services dominate revenue
 
-3.📉 Monthly Trend
+3. Monthly Trend
 Revenue is decreasing over time
 Project count also declining
 
 👉 Insight: Decline due to fewer projects
 
-4.👥 Client Analysis
+4.Client Analysis
 Major clients:
 Hitachi (~₹15M+)
 RIL
@@ -94,13 +95,13 @@ Euronet
 
 👉 Insight: High dependency on few clients
 
-5.📊 Project Distribution
+5. Project Distribution
 Most projects in UP & Haryana
 Other regions underutilized
 
 👉 Insight: Expansion opportunity
 
-**📊 Dashboard Features (Power BI)**
+** Dashboard Features (Power BI)**
 
 KPI Cards (Total Revenue, Project Count)
 State-wise Revenue Visualization
@@ -108,7 +109,7 @@ Monthly Revenue Trend
 Top Clients Analysis
 Project Type Distribution
 
-**🚀 Conclusion**
+**Conclusion**
 
 The analysis reveals that the business:
 
