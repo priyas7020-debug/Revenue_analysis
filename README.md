@@ -60,7 +60,7 @@ Created KPIs and charts
 
 **Key Insights**
 
-1.💰 Revenue Performance
+1.Revenue Performance
 
 Total Revenue ≈ ₹42.23M
 Business is stable but depends on high-value projects
@@ -70,7 +70,7 @@ Uttar Pradesh → Highest contributor
 Haryana → Second highest
 Other states → Low contribution
 
-👉 Insight: Business is geographically concentrated
+Insight: Business is geographically concentrated
 
 2. Project Type Analysis
 
@@ -79,13 +79,13 @@ Partition
 Site Work
 Electrical
 
-👉 Insight: Few services dominate revenue
+ Insight: Few services dominate revenue
 
 3. Monthly Trend
 Revenue is decreasing over time
 Project count also declining
 
-👉 Insight: Decline due to fewer projects
+ Insight: Decline due to fewer projects
 
 4.Client Analysis
 Major clients:
@@ -93,13 +93,13 @@ Hitachi (~₹15M+)
 RIL
 Euronet
 
-👉 Insight: High dependency on few clients
+Insight: High dependency on few clients
 
 5. Project Distribution
 Most projects in UP & Haryana
 Other regions underutilized
 
-👉 Insight: Expansion opportunity
+Insight: Expansion opportunity
 
 ** Dashboard Features (Power BI)**
 
@@ -116,14 +116,14 @@ The analysis reveals that the business:
 Relies heavily on few clients and regions
 Shows a declining trend in revenue and projects
 
-**✅ Recommendations:**
+** Recommendations:**
 
 Diversify client base
 Expand to new regions
 Increase project acquisition
 Focus on high-performing services
 
-**📌 Author**
+**Author**
 
 Priya Sharma
 BSc Data Science Student
