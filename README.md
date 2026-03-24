@@ -3,8 +3,6 @@ Project - https://docs.google.com/document/d/1wpLNq5RwuRd49I6yoPGi0nHR0qheTijh/e
 
 Presentation -https://docs.google.com/presentation/d/1k7jpISBT-npQkU_idNhUaPWurV78wpg7/edit?usp=sharing&ouid=108406632213737078413&rtpof=true&sd=true
 
-data cleaning and EDA python (juypter Notebook) - file:///C:/Users/Admin/Downloads/_revenue%20data%20cleaning.html
-
 Dashboard- <img width="1167" height="656" alt="image" src="https://github.com/user-attachments/assets/b79067fc-40f8-4266-b3ee-3858ab803662" />
 
  <img width="1167" height="656" alt="image" src="https://github.com/user-attachments/assets/d8aecfd8-fc0f-434b-ba0b-d65efcb9687e" />
